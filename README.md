@@ -1,5 +1,5 @@
 # First Task (Write a simple calculator program in PHP using switch case)
-> To Show The Code Click here <a href="Simple Calculator Program in PHP.php">here</a><br>
+> To Show The Code Click <a href="Simple Calculator Program in PHP.php">here</a><br>
 
 Description:
 You need to write a simple calculator program in PHP using switch case.
@@ -14,14 +14,14 @@ You need to write a simple calculator program in PHP using switch case.
 
 
 # Second Task (Remove specific element by value from an array in PHP)
-> To Show The Code Click here <a href="Remove specific element by value from an array in PHP.php">here</a><br>
+> To Show The Code Click <a href="Remove specific element by value from an array in PHP.php">here</a><br>
 
 Description:
 You need to write a program in PHP to remove specific element by value from an array using PHP program.
 
 
 # Third Task (some functions by built-in PHP)
-> To Show The Code Click here <a href="StringFunction.php">here</a><br>
+> To Show The Code Click <a href="StringFunction.php">here</a><br>
 <ul>
     <li>reverse the string.</li>
     <li>find the length of the string</li>
@@ -33,7 +33,7 @@ You need to write a program in PHP to remove specific element by value from an a
 
 
 # Fourth Task (Array to String Conversion (favourite colours chosen by user))
-> To Show The Code Click here <a href="Array to String Conversion/array.php">here</a> </br>
+> To Show The Code Click <a href="Array to String Conversion/array.php">here</a> </br>
 
 Description:
 Write an exercise for PHP Array to String Conversion.
