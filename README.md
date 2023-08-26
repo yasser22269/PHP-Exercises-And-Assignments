@@ -26,3 +26,5 @@ You need to write a program in PHP to remove specific element by value from an a
     <li>convert all the characters inside the string into uppercase.</li>
     <li>check if an array is a subset of another</li>
 </ul>
+
+<a href="StringFunction.php">StringFunction</a>
