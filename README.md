@@ -1,5 +1,5 @@
 # First Task (Write a simple calculator program in PHP using switch case)
-
+> To Show The Code Click here <a href="Simple Calculator Program in PHP.php">here</a>
 Description:
 You need to write a simple calculator program in PHP using switch case.
 
@@ -13,12 +13,13 @@ You need to write a simple calculator program in PHP using switch case.
 
 
 # Second Task (Remove specific element by value from an array in PHP)
-
+> To Show The Code Click here <a href="Remove specific element by value from an array in PHP.php">here</a>
 Description:
 You need to write a program in PHP to remove specific element by value from an array using PHP program.
 
 
 # Third Task (some functions by built-in PHP)
+> To Show The Code Click here <a href="StringFunction.php">here</a>
 <ul>
     <li>reverse the string.</li>
     <li>find the length of the string</li>
@@ -27,4 +28,3 @@ You need to write a program in PHP to remove specific element by value from an a
     <li>check if an array is a subset of another</li>
 </ul>
 
-<a href="StringFunction.php">StringFunction</a>
