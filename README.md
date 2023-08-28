@@ -52,18 +52,22 @@ Write an exercise for PHP Array to String Conversion.
 
 Description:
 I have created a Simple CRUD (Create/Read/Update/Delete) Application in PHP that is easy to understand.
-
+<p>Index Page</p>
 <img src="../main/CRUD/img/index.png">
 <br><br>
+<p>Create Page</p>
  <img src="../main/CRUD/img/Create.png">
 
 # Sixth Task ( Building a login and registration system with PHP and MySQL)
 > To Show The Code Click <a href="Registeration And Login System">here</a> </br>
 
+<p>Registration Page</p>
 <img src="../main/Registeration And Login System/img/Registration-form.png">
 <br><br>
+<p>Login Page</p>
 <img src="../main/Registeration And Login System/img/Login-form.png">
 <br><br>
+<p>index Page</p>
 <img src="../main/Registeration And Login System/img/index.png">
 
 
