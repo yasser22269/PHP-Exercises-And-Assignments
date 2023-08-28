@@ -53,3 +53,17 @@ Write an exercise for PHP Array to String Conversion.
 Description:
 I have created a Simple CRUD (Create/Read/Update/Delete) Application in PHP that is easy to understand.
 
+
+# Next Tasks I Will do It
+
+> Here are some front-end projects that can be converted into PHP tasks:
+
+1. Building a login and registration system with PHP and MySQL.
+2. Creating a contact form with PHP and MySQL.
+3. Implementing a shopping cart and checkout system using PHP and MySQL.
+4. Building a blog with PHP and MySQL.
+5. Creating a portfolio website using PHP
+6. A Perfect Score Landing Page
+7. Build a Quiz
+8. Build a simple e-commerce website using PHP and MySQL.
+
