@@ -53,6 +53,10 @@ Write an exercise for PHP Array to String Conversion.
 Description:
 I have created a Simple CRUD (Create/Read/Update/Delete) Application in PHP that is easy to understand.
 
+<img src="../main/CRUD/img/index.png">
+<br><br>
+ <img src="../main/CRUD/img/Create.png">
+
 # Sixth Task ( Building a login and registration system with PHP and MySQL)
 > To Show The Code Click <a href="Registeration And Login System">here</a> </br>
 
