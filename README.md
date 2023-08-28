@@ -56,11 +56,11 @@ I have created a Simple CRUD (Create/Read/Update/Delete) Application in PHP that
 # Sixth Task ( Building a login and registration system with PHP and MySQL)
 > To Show The Code Click <a href="Registeration And Login System">here</a> </br>
 
-<img src="../main/img/Registration-form.png">
+<img src="../main/Registeration And Login System/img/Registration-form.png">
 <br><br>
-<img src="../main/img/Login-form.png">
+<img src="../main/Registeration And Login System/img/Login-form.png">
 <br><br>
-<img src="../main/img/index.png">
+<img src="../main/Registeration And Login System/img/index.png">
 
 
 # Next Tasks I Will do It
